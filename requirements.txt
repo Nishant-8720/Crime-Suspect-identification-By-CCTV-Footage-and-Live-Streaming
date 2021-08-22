@@ -1,0 +1,11 @@
+tensorflow>=2.1.2
+scipy
+scikit-learn
+opencv-contrib-python   -- pip install opencv-contrib-python or upgrade
+pandas
+pillow
+flask   -- pip install flask or !pip install flask
+keras   -- pip install keras or !pip install keras
+
+
+

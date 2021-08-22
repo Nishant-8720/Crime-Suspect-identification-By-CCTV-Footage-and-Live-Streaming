@@ -1,0 +1,52 @@
+1) Flask 
+
+https://youtu.be/mqhxxeeTbu0
+
+2) Flask-mail Detail information:
+    Please visit 
+
+https://pythonhosted.org/flask-mail/ 
+
+
+3) Transport Layer Security
+Transport Layer Security (TLS)
+TLS is a protocol that encrypts and delivers mail securely, for both inbound and outbound mail traffic. It helps prevent eavesdropping between mail servers – keeping your messages private while they're moving between email providers. TLS is being adopted as the standard for secure email.
+
+4) Secure Sockets Layer
+Secure Sockets Layer (SSL) is a standard security technology for establishing an encrypted link between a server and a client—typically a web server (website) and a browser, or a mail server and a mail client (e.g., Outlook).
+
+5) # After mail start 
+
+6) main project 
+
+@app.route ?
+App routing is used to map the specific URL with the associated function that is intended to perform some task. It is used to access some particular page like Flask Tutorial in the web application.
+
+
+7) haarcascade ?
+Haar Cascade classifier is an effective object detection approach which was proposed by Paul Viola and Michael Jones in their paper, “Rapid Object Detection using a Boosted Cascade of Simple Features” in 2001. ... Based on the training it is then used to detect the objects in the other images.
+
+https://github.com/opencv/opencv/tree/master/data/haarcascades
+
+
+Module and its technology
+
+Face recogani -   haarcascade
+weaphon detc  -   keras -> model_latest.h5 
+Pose          -   Pose Extractor ->  transformer
+hand gest     -   Keras -> hand_gester.h5
+expression    -   haarcascade -> frontalface_default.xml
+                  facialexpressionmodel -> model_weight.h5 
+
+for the result display 
+
+Matploatlib pylot
+
+for the interface 
+
+flask and other related package 
+
+for mail teransfering 
+
+flask mail
+
